@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs": "0.0.1-security",
     "mysql": "^2.18.1",
     "sequelize": "^6.6.5"
   }
